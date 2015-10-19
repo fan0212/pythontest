@@ -24,8 +24,7 @@
    "cell_type": "code",
    "execution_count": 2,
    "metadata": {
-    "collapsed": false,
-    "scrolled": true
+    "collapsed": false
    },
    "outputs": [
     {
@@ -275,71 +274,6 @@
    ],
    "source": [
     "int(True)"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 19,
-   "metadata": {
-    "collapsed": false
-   },
-   "outputs": [
-    {
-     "data": {
-      "text/plain": [
-       "'中文'"
-      ]
-     },
-     "execution_count": 19,
-     "metadata": {},
-     "output_type": "execute_result"
-    }
-   ],
-   "source": [
-    "\"中文\""
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 25,
-   "metadata": {
-    "collapsed": false
-   },
-   "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "我是泡芙\n",
-      "泡芙是我\n"
-     ]
-    }
-   ],
-   "source": [
-    "a=\"\"\"我是泡芙\n",
-    "泡芙是我\"\"\"\n",
-    "print(a)"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 27,
-   "metadata": {
-    "collapsed": false
-   },
-   "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "I am a girl \n",
-      " a girl\n"
-     ]
-    }
-   ],
-   "source": [
-    "a='I am a girl \\n a girl'\n",
-    "print(a)"
    ]
   },
   {
